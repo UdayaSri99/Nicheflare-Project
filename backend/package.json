@@ -1,5 +1,5 @@
 {
-  "name": "musharaf-blog",
+  "name": "Blog",
   "version": "1.0.0",
   "description": "This is the api for the backend",
   "main": "server.js",
